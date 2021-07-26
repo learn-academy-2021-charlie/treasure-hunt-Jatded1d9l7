@@ -11,7 +11,7 @@ handleClick = () => {
       <>
       <div id = "square"
       onClick= {this.handleClick}>
-      {this.props.value}
+        {this.props.value}
       </div>
       </>
     )
